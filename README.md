@@ -1,2 +1,0 @@
-# tabsrepo.github.io
-Portfolio
